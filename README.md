@@ -4,7 +4,7 @@ Changes the Impact Hammer Gauge to a paw! Made it for personal use, but thought 
 
 ## **How to use:**
 
-1. Install this pack manually or with a mod manager. Install its dependencies, ULTRASKINS-GC, if you do not have them already. r2modman does this automatically.
+1. Install this pack manually or with a mod manager. Install its dependency, ULTRASKINS-GC, if you do not have it already. r2modman does this automatically.
 2. Click the "US" button on the main menu.
 3. Find "Impawct Hammer" in the list and click it. (The box will be filled with an X if it's enabled). Click "Apply".
 

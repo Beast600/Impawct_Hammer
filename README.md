@@ -10,7 +10,19 @@ Changes the Impact Hammer Gauge to a paw! Made it for personal use, but thought 
 
 If the gauge is unaffected after enabling this pack, move it to the top of the list in the ULTRASKINS menu.
 
-If Impawct Hammer does not appear in the list, click the plus button at the bottom of the list. Click "Add undetected ThunderStore skin", find this mod, and click it. If it doesn't appear in that list either, follow the steps below but copy the files from the folder for this mod instead.
+## **Manual Installation:**
+
+1. Extract the .zip file.
+2. Right click the extracted output and left click "Copy" or "Cut" in the pop-up menu.
+3. Make sure you have installed and loaded ULTRASKINS plus all other dependencies prior to the next step; BepInEx and each plugin should have it's own instructions.
+4. You should have a directory within the user profile on your drive that leads to Roaming\bobthecorn2000\ULTRAKILL\ultraskinsGC-V2\GlobalSkins.
+5. You can make the "GlobalSkins" folder yourself if it happens to be missing.
+6. Finally, use the right click pop-up menu to "Paste" the folder into the GlobalSkins folder.
+7. And you should be done; refer back to "How to use" steps 2-3.
+
+## **Thunderstore/r2modman Compatibility**
+
+Should be compatible, but as someone who has little experience modding with or using Thunderstore, I cannot be certain.
 
 ## Contact:
 

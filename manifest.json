@@ -1,0 +1,11 @@
+{
+    "name": "Impawct_Hammer",
+    "description": "For high velocity booping!",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/henrijrd/ultrakill-blue-chainsaw",
+    "dependencies": [
+        "bobthecorn-ULTRASKINS_GC-7.0.0",
+	"tetriscat66-USGCColorOverride-1.1.0"
+    ]
+    
+}
